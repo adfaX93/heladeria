@@ -1,0 +1,16 @@
+C:\Users\afret\Desktop\Segunda Parcial\Heladeria\bin\Debug\Heladeria.exe.config
+C:\Users\afret\Desktop\Segunda Parcial\Heladeria\bin\Debug\Heladeria.exe
+C:\Users\afret\Desktop\Segunda Parcial\Heladeria\bin\Debug\Heladeria.pdb
+C:\Users\afret\Desktop\Segunda Parcial\Heladeria\obj\Debug\Heladeria.csprojAssemblyReference.cache
+C:\Users\afret\Desktop\Segunda Parcial\Heladeria\obj\Debug\Heladeria.frmMenu.resources
+C:\Users\afret\Desktop\Segunda Parcial\Heladeria\obj\Debug\Heladeria.Properties.Resources.resources
+C:\Users\afret\Desktop\Segunda Parcial\Heladeria\obj\Debug\Heladeria.csproj.GenerateResource.cache
+C:\Users\afret\Desktop\Segunda Parcial\Heladeria\obj\Debug\Heladeria.csproj.CoreCompileInputs.cache
+C:\Users\afret\Desktop\Segunda Parcial\Heladeria\obj\Debug\Heladeria.exe
+C:\Users\afret\Desktop\Segunda Parcial\Heladeria\obj\Debug\Heladeria.pdb
+C:\Users\afret\Desktop\Segunda Parcial\Heladeria\obj\Debug\Heladeria.frmSabores.resources
+C:\Users\afret\Desktop\Segunda Parcial\Heladeria\obj\Debug\Heladeria.frmProductos.resources
+C:\Users\afret\Desktop\Segunda Parcial\Heladeria\obj\Debug\Heladeria.frmSeleccionaProducto.resources
+C:\Users\afret\Desktop\Segunda Parcial\Heladeria\obj\Debug\Heladeria.frmVentas.resources
+C:\Users\afret\Desktop\Segunda Parcial\Heladeria\obj\Debug\Heladeria.frmSplash.resources
+C:\Users\afret\Desktop\Segunda Parcial\Heladeria\obj\Debug\Heladeria.frmLogin.resources

@@ -1,0 +1,31 @@
+﻿using System;
+using System.Collections.Generic;
+using System.ComponentModel;
+using System.Data;
+using System.Drawing;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using System.Windows.Forms;
+
+namespace Heladeria
+{
+    public partial class frmVentas : Form
+    {
+        public frmVentas()
+        {
+            InitializeComponent();
+        }
+
+        private void btnBuscarProductoVenta_Click(object sender, EventArgs e)
+        {
+            frmSeleccionaProducto sP = new frmSeleccionaProducto();
+            sP.Show();
+        }
+
+        private void btnSalirVenta_Click(object sender, EventArgs e)
+        {
+            this.Close();
+        }
+    }
+}
